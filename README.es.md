@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julio!
 
-[![en](https://img.shields.io/badge/Lang-EN-blue)](README.es.md)
+[![en](https://img.shields.io/badge/Lang-EN-blue)](README.md)
 
 Soy desarrollador de software. He trabajado en algunos proyectos personales y colaborativos donde aprendí diversas tecnologías.
 
