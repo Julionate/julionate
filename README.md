@@ -1,38 +1,40 @@
-# ¡Hola, soy Julio!
+# 👋 Hi, I'm Julio!
 
-Soy desarrollador de software. He trabajado en algunos proyectos personales y colaborativos donde aprendí diversas tecnologías.
+[![es](https://img.shields.io/badge/Lang-ES-blue)](README.es.md)
 
-![Julio Banner](banner.png)
+I'm a developer. I have worked in some personal and collaborative projects where I learned a lot of new stuff.
 
-## Mis conocimientos
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
+  <img alt="Banner" src="banner-light.png">
+</picture>
 
-Poseo diversos conocimientos tanto en lenguajes de programación, frameworks de desarrollo web y backend, y frameworks de desarrollo de aplicaciones móviles.
+## My knowledges
 
-### Lenguajes de programación:
+I have diverse knowledge in programming languages, frontend and backend frameworks, mobile application frameworks and more.
 
-- JavaScript + Typescript.
-- JSX + TSX.
+### Programming languages:
+
+- Javascript + Typescript.
 - Python.
+- Now I'm learning Rust! :)
 
 ### Frameworks
 
-- Astro & Islands (Sitios web).
-- React (Aplicaciones web).
-- Preact & Signals (Aplicaciones web).
-- TailwindCSS (Estilado de sitios/aplicaciones web).
+- AstroJS.
+- React.
+- Preact.
+- TailwindCSS.
 - Express.
-- React Native (Aplicaciones móviles).
-- Expo (Aplicaciones móviles).
-- Tauri (Aplicaciones de escritorio).
+- React Native.
+- Expo.
+- Tauri.
 
-### Entornos de ejecución
+### Others
 
-- NodeJS.
+- Git and GitHub.
 
-### Otros
+## Contact
 
-Poseo conocimientos en Git y GitHub para trabajar de forma colaborativa y eficientemente.
-
-## Contacto
-
-**Correo electrónico: julionate@pm.me**
+**Email: julionate@pm.me**
